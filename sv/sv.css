@@ -1,0 +1,30 @@
+.block1 {
+    float: left; /*Задаем обтекание*/
+    line-height: 120px;/*Высота строки +  верт. центрирования текста*/
+    font-size: 15px;
+    background: dodgerblue;
+    color: white;
+    margin: auto;
+    text-align: center; /*Центрируем текст по горизонтали*/
+   }
+
+.block2 {
+    float: right; /*Задаем обтекание*/
+    line-height: 120px;/*Высота строки +  верт. центрирования текста*/
+    font-size: 15px;
+    background: dodgerblue;
+    color: white;
+    margin: auto;
+    text-align: center; /*Центрируем текст по горизонтали*/
+   }
+pre {
+    float: left;
+    line-height: normal;
+    font-size: 15px;
+    background: dodgerblue;
+    color: white;
+    margin: auto;
+    text-align: left;
+
+
+}
